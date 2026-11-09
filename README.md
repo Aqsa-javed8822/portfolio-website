@@ -212,7 +212,6 @@ Update this structure to reflect the actual contents of the repository.
 **Aqsa Javed**
 
 - GitHub: [@aqsajaved8822](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
 - Email: Aqsajaved8822@gmail.com
 
 ---
