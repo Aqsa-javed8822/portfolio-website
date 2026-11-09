@@ -209,14 +209,10 @@ Update this structure to reflect the actual contents of the repository.
 
 ## Author
 
-**Your Name**
+**Aqsa Javed**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@aqsajaved8822](https://github.com/your-username)
 - LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: Aqsajaved8822@gmail.com
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
