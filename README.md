@@ -4,6 +4,11 @@ Focus Frame is a responsive digital agency and portfolio website built with Word
 
 ![Home Page Preview](./home.png)
 
+## Responsive Homepage
+
+![Home Page Preview](./homer.png)
+
+
 ---
 
 ## Table of Contents
